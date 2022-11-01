@@ -1,0 +1,15 @@
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.csproj.AssemblyReference.cache
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.AssemblyInfoInputs.cache
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.AssemblyInfo.cs
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.csproj.CoreCompileInputs.cache
+C:\Users\Concert\source\repos\PlanningPoker\bin\Debug\net6.0\PlanningPoker.exe
+C:\Users\Concert\source\repos\PlanningPoker\bin\Debug\net6.0\PlanningPoker.deps.json
+C:\Users\Concert\source\repos\PlanningPoker\bin\Debug\net6.0\PlanningPoker.runtimeconfig.json
+C:\Users\Concert\source\repos\PlanningPoker\bin\Debug\net6.0\PlanningPoker.dll
+C:\Users\Concert\source\repos\PlanningPoker\bin\Debug\net6.0\PlanningPoker.pdb
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.dll
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\refint\PlanningPoker.dll
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.pdb
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\PlanningPoker.genruntimeconfig.cache
+C:\Users\Concert\source\repos\PlanningPoker\obj\Debug\net6.0\ref\PlanningPoker.dll
